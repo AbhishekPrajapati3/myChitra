@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "609029826630",
+    "project_id": "chitraapp-8d61f",
+    "storage_bucket": "chitraapp-8d61f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609029826630:android:b9341a38ae08074cbdc247",
+        "android_client_info": {
+          "package_name": "com.example.chitra_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM9zm1HgCTgSxf13ZIj7TQyD65FDic_u0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
