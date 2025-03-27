@@ -80,5 +80,5 @@ Feel free to submit issues or contribute via pull requests.
 
   * **Name**  : Abhishek
   * **Email** : abprajapati3333@gmail.com****
-  * **LinkedIn** : [LinkedIn](https://linkedin.com/in/yourprofile)
+  * **LinkedIn** : [LinkedIn](https://www.linkedin.com/in/abhishek-kumarprajapati/)
 
