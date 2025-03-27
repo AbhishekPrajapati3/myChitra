@@ -50,7 +50,7 @@ To use the **Pexels API**, follow these steps:
 
 ## 📸 Screenshots
 
-Here are some preview images of the **Help Hub** application:  
+Here are some preview images of the **Chitra** application:  
 
 ### 🔹 Home Page  
  ![Screenshot 2025-03-27 103156](https://github.com/user-attachments/assets/f2747f11-a82e-4ded-a03e-fb8b12e13e18) 
